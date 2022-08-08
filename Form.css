@@ -1,0 +1,83 @@
+*{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    /* line-height: 24px; */
+    color: #222222;
+}
+.header{
+    margin-left: 83px;
+    margin-right: 83px;
+    margin-top: 47px;
+}
+
+header{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    
+}
+.navbar{
+    list-style: none;
+    /* float: right; */
+}
+
+li{
+    display: inline;
+    padding: 30px;
+    /* float: right; */
+    /* margin-left: 800px; */
+}
+
+button{
+    padding: 5px 12px;
+    /* position: absolute; */
+    width: 100px;
+    height: 30px;
+    left: 1325px;
+    top: 104px;
+    border: none;
+    color: white;
+    background-color: #0A2D4F;
+    border-radius: 6px;
+    /* overflow: hidden; */
+}
+
+.content{
+    margin-left: 154px;
+    margin-right: 559px;
+    margin-top: 80px;
+}
+
+.in{
+    /* position: absolute; */
+    width: 329px;
+    height: 35px;
+
+    background: #E8E8E8;
+    border-radius: 4px;
+    border: 1px solid #E8E8E8;
+}
+
+.end{
+    width: 174px;
+    margin-bottom: 169px;
+}
+
+.Hire{
+    font-weight: 700;
+}
+
+.img{
+    /* position: absolute; */
+    width: 646px;
+    height: 621px;
+    /* left: 702px; */
+    /* top: 92px; */
+    margin-top: -780px;
+    margin-left: 150px ;
+    float: right;
+    margin-right: 64px;
+    /* margin-bottom: 169px; */
+}
